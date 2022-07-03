@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.12.0+cpu 
 torchvision==0.13.0+cpu
-fastai
+fastai==2.7.4
 voila
 ipywidgets
