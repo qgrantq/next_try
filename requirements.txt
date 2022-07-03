@@ -1,7 +1,6 @@
--f https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/cpu
 pytorch-cpu
 torchvision-cpu
 fastai
 voila
 ipywidgets
-
