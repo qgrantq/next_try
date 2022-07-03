@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/cpu
-pytorch-cpu
-torchvision-cpu
+pytorch
+torchvision
 fastai
 voila
 ipywidgets
