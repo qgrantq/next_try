@@ -1,5 +1,5 @@
 -f https://download.pytorch.org/whl/cpu
-pytorch
+torch
 torchvision
 fastai
 voila
